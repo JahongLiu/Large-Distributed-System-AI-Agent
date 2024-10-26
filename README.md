@@ -1,9 +1,7 @@
-#  AI-Products-Store
+#  Expanded Bookstore
 
 ## Overview
-Architected an AI-powered product store app to explore design challenges, trade-offs, and innovative business ideas
-Product 1 : AI-E-books
-Product 2: AI-T-Shirt
+Architected an Expanded Bookstore to explore design challenges and trade-offs
 
 ## Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
