@@ -1,4 +1,4 @@
-#  Expanded Bookstore
+#  Large-Scale-System-Design-Expanded-Bookstore
 
 ## Overview
 I'm not a master of the every tech stack, but I just architected this large system to explore design challenges and trade-offs.
