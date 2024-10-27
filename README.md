@@ -1,7 +1,7 @@
 #  Expanded Bookstore
 
 ## Overview
-Architected an Expanded Bookstore to explore design challenges and trade-offs
+I'm not a master of the every tech stack, but I just architected this large system to explore design challenges and trade-offs.
 
 ## Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
