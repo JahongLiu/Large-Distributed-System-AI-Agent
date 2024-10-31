@@ -3,6 +3,8 @@
 ## Overview
 Architected this large system to explore design challenges and trade-offs, as well as ai generated ebook business idea.
 
+**P.S. I'm exploring these tech stacks to broaden my skills, not because I'm a master of them all.**
+
 ## Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
 
