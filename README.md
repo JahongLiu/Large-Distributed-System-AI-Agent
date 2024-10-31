@@ -5,6 +5,20 @@ Architected this large system to explore design challenges and trade-offs, as we
 
 **P.S. I'm exploring these tech stacks to broaden my skills, not because I'm a master of them all.**
 
+**AI**: Llama3, GPT API
+
+**Full Stack**: React, Django, PostgreSQL
+
+**Microservices**: Spring Boot
+
+**Routing**: Eureka, Zuul, Ribbon, Nginx
+
+**Observability**: Elasticserach, Fluented, Kibana, Jaeger, Prometheus
+
+**Big Data**: Redis, RabbitMQ, Cassandra
+
+**Deployment**: Docker, Kubernetes
+
 ## Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
 
