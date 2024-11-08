@@ -1,4 +1,4 @@
-#  Llamazon-AI-Ebook-Store
+#  Llamazon-AI-Ebook-Store (WIP)
 
 ## Overview
 Architected this large system to explore design challenges and trade-offs, as well as ai generated ebook business idea.
