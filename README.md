@@ -1,9 +1,7 @@
 #  Llamazon-AI-Ebook-Store (WIP)
 
 ## Overview
-Architected this large system to explore design challenges and trade-offs, as well as ai generated ebook business idea.
-
-**P.S. I'm exploring these tech stacks to broaden my skills, not because I'm a master of them all.**
+Architected this large system to explore design challenges and trade-offs, as well as ai ideas.
 
 **AI**: Llama3, GPT API
 
