@@ -7,11 +7,11 @@ Architected this large system to explore design challenges and trade-offs, as we
 
 **AI**: Llama3, GPT API
 
-**Full Stack**: React, Django, PostgreSQL
+**Full Stack**: React&Tailwind, Django, PostgreSQL
 
 **Microservices**: Spring Boot
 
-**Routing**: Eureka, Zuul, Ribbon, Nginx
+**Traffic Management**: Eureka, Zuul, Ribbon, Nginx
 
 **Observability**: Elasticserach, Fluented, Kibana, Jaeger, Prometheus
 
