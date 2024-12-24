@@ -17,7 +17,7 @@ Architected this large system to explore design challenges and trade-offs, as we
 
 **Deployment**: Docker, Kubernetes
 
-## Docs
+## Detailed Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
 
 ### V1:
