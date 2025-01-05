@@ -1,11 +1,11 @@
-#  Llamazon-AI-Ebook-Store (WIP)
+#  Llamazon-Store (WIP)
 
 ## Overview
-Architected this large system to explore design challenges and trade-offs, as well as ai ideas.
+Architected this distributed AI store to explore design challenges and trade-offs, building the system architecture for learning purposes while exploring business ideas.
 
-**AI**: Llama3, GPT API
+**AI**: Llama3, GPT API (Pending)
 
-**Full Stack**: React&Tailwind, Django, PostgreSQL
+**Full Stack**: React&Tailwind, Django, PostgreSQL, Spring Boot
 
 **Microservices**: Spring Boot
 
@@ -13,7 +13,7 @@ Architected this large system to explore design challenges and trade-offs, as we
 
 **Observability**: Elasticserach, Fluented, Kibana, Jaeger, Prometheus
 
-**Big Data**: Redis, RabbitMQ, Cassandra
+**Big Data**: Redis, Kafka or RabbitMQ, Cassandra
 
 **Deployment**: Docker, Kubernetes
 
