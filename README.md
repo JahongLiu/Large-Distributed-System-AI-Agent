@@ -1,7 +1,7 @@
-#  Llamazon-Store (WIP)
+#  Distributed-AI-Products-Store
 
 ## Overview
-Architected this distributed AI store to explore design challenges and trade-offs, building the system architecture for learning purposes while exploring business ideas.
+Architected a distributed store to explore design challenges and trade-offs, building the system architecture first for learning purposes while exploring business ideas.
 
 
 **Full Stack**: React&Tailwind, Django, PostgreSQL, Spring Boot
