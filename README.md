@@ -3,7 +3,6 @@
 ## Overview
 Architected this distributed AI store to explore design challenges and trade-offs, building the system architecture for learning purposes while exploring business ideas.
 
-**AI**: Llama3, GPT API (Pending)
 
 **Full Stack**: React&Tailwind, Django, PostgreSQL, Spring Boot
 
@@ -16,6 +15,8 @@ Architected this distributed AI store to explore design challenges and trade-off
 **Big Data**: Redis, Kafka or RabbitMQ, Cassandra
 
 **Deployment**: Docker, Kubernetes
+
+**AI**: Llama3, GPT API (Pending)
 
 ## Detailed Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
