@@ -33,6 +33,11 @@ https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/
 ### Docker Plan
 ![Screenshot 2024-08-14 at 3 25 43 PM](https://github.com/user-attachments/assets/56285a11-1663-430e-94d0-b0055c90d09e)
 
+### Observability-Logging
+![Observability-Logging](https://github.com/user-attachments/assets/b7f75b87-4977-4be1-ab75-3dcfcf8f5095)
+
+
+
 
 
 ## Enviroment Set
