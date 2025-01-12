@@ -1,7 +1,7 @@
 #  
 
 ## Overview
-Iterated a large disteibuted system from monolithic to explore software design challenges, trade-offs and technologies, building the large distributed system architecture for learning purposes while exploring AI business ideas.
+Iterated a large disteibuted system from three-tier to explore software design challenges, trade-offs and technologies, building the large distributed system architecture for learning purposes while exploring AI business ideas.
 
 **AI**: Llama3, GPT API (Exploring)
 
