@@ -18,6 +18,10 @@ Architected a large scale system to explore design challenges and trade-offs, bu
 
 **AI**: Llama3, GPT API (Pending)
 
+## System Evolution Process
+![System Evolution Process](https://github.com/user-attachments/assets/bad52c8d-1b55-4c96-8f58-a078c8cc4086)
+
+
 ## Detailed Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
 
