@@ -1,8 +1,9 @@
-#  Scalable-Large-Store-Architecture
+#  
 
 ## Overview
-Architected a large scale system to explore design challenges and trade-offs, building the system architecture first for learning purposes while exploring business ideas.
+Iterated a large disteibuted system from monolithic to explore software design challenges, trade-offs and technologies, building the large distributed system architecture for learning purposes while exploring AI business ideas.
 
+**AI**: Llama3, GPT API (Exploring)
 
 **Full Stack & Mobile**: React&Tailwind (Using React SPA as mobile to save time), Django (Web), PostgreSQL, Spring Boot
 
@@ -16,7 +17,6 @@ Architected a large scale system to explore design challenges and trade-offs, bu
 
 **Deployment**: Docker, Kubernetes
 
-**AI**: Llama3, GPT API (Pending)
 
 ## Iterative System Evolution Approach
 ![System Evolution Process](https://github.com/user-attachments/assets/bad52c8d-1b55-4c96-8f58-a078c8cc4086)
