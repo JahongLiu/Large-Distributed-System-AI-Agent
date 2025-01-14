@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class ErrorBoundary extends Component {
   constructor(props) {
@@ -10,7 +10,7 @@ class ErrorBoundary extends Component {
     return { hasError: true };
   }
 
-  logErrorToMyService = message => console.log('Caught error:', message);
+  logErrorToMyService = (message) => console.log("Caught error:", message);
 
   componentDidCatch(error, errorInfo) {
     this.logErrorToMyService(error, errorInfo);
@@ -21,7 +21,7 @@ class ErrorBoundary extends Component {
       return <h1>Something went wrong.</h1>;
     }
 
-    return this.props.children; 
+    return this.props.children;
   }
 }
 
