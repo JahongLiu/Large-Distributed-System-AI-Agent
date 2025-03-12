@@ -1,6 +1,6 @@
 #  
 
-## WIP(90/100)
+## WIP(70/100), some tech stack could be updated
 ## Overview
 Iterated a large disteibuted system from three-tier to explore software design challenges, trade-offs and technologies, building the large distributed system architecture for learning purposes while exploring AI business ideas.
 
