@@ -4,7 +4,7 @@
 ## Overview
 Iterated a large disteibuted system from three-tier to explore software design challenges, trade-offs and technologies, building the large distributed system architecture for learning purposes while exploring AI business ideas.
 
-**AI**: Vertex AI
+**AI Agent**: RAG, Langflow & Multi-Agents
 
 **Full Stack & Mobile**: React&Tailwind (Using React SPA as mobile to save time), Django (Web), PostgreSQL, Spring Boot
 
