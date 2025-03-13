@@ -2,11 +2,13 @@
 
 ## WIP(70/100), some tech stack could be updated
 ## Overview
-Iterated a large disteibuted system from three-tier to explore software design challenges, trade-offs and technologies, building the large distributed system architecture for learning purposes while exploring AI business ideas.
+- Exploring AI Agents.
+- Architected a distributed large system iteratively: Monolithic -> Three-tier -> Large-scale Distributed System to explore software design challenges, trade-offss
+
 
 **AI Agent**: RAG, Langflow & Multi-Agents
 
-**Full Stack & Mobile**: React&Tailwind (Using React SPA as mobile to save time), Django (Web), PostgreSQL, Spring Boot
+**Full Stack & Mobile**: React&Tailwind (Using React SPA as mobile to save time), Django (Web prototyping), PostgreSQL(Initial DB), Spring Boot(Business Logic)
 
 **Microservices**: Spring Boot
 
